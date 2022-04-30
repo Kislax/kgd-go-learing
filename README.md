@@ -1,6 +1,6 @@
 # kgl-go-learing
 
-Hi! tap link to show russian version [#Russianversion](#Russian%20version)
+Hi! tap link to show russian version [Russian version](#russian-version)
 # English version
  ## 1. For me
     I Max - full-stack software developer from Kaliningrad, my main programming language a JS and Python.
@@ -28,7 +28,7 @@ Hi! tap link to show russian version [#Russianversion](#Russian%20version)
     - How can I help this project.
 
 # Russian version
-    tap link to show russian version [#English Version](#English%20version)
+Tap link to show english version [English Version](#English-version)
  ## 1. Про меня
     Я Макс - full-stack разработчик из Калининграда, мой основной язык программирования - JS и Python.
     Иногда использовал другие языки).
