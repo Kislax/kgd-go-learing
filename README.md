@@ -1,4 +1,4 @@
-# kgl-go-learing
+# kgd-go-learing
 
 Hi! tap link to show russian version [Russian version](#russian-version)
 # English version
